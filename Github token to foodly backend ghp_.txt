@@ -1,0 +1,1 @@
+Github token to foodly backend: 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
